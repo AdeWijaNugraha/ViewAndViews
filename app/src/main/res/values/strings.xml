@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Visi Apple sejak awal adalah menciptakan iPhone yang sepenuhnya layar. Yang begitu menghanyutkan sehingga tak ada lagi batasan antara perangkat dan pengalaman. Dan begitu cerdas sehingga dapat merespons dengan sekali sentuh, atau bahkan sekali pandang. Dengan iPhone X, visi ini menjadi kenyataan. Sambut masa depan.</string>
+    <string name="content_specs_display">Layar Super Retina HD\n
+    Layar OLED Multi-Touch menyeluruh 5,8 inci (diagonal)\n
+    Layar HDR\n
+    Resolusi 2436 x 1125 piksel pada 458 ppi\n
+    Rasio kontras 1.000.000:1 (umum)\n
+    Layar True Tone\n
+    Layar warna luas (P3)\n
+    3D Touch\n
+    Kecerahan maks 625 cd/m² (umum)\n
+    Lapisan oleophobic anti sidik jari\n
+    Mendukung tampilan berbagai bahasa dan karakter secara bersamaan</string>
+    <string name="content_specs_size">Tinggi: 143,6 mm (5,65 inci)\n
+    Lebar: 70,9 mm (2,79 inci)\n
+    Tebal: 7,7 mm (0,30 inci)</string>
+    <string name="content_specs_battery">Dengan masa pakai hingga 2 jam lebih lama dibanding iPhone 7\n
+    Waktu bicara (nirkabel):\n
+    Hingga 21 jam\n
+    Penggunaan Internet:\n
+    Hingga 12 jam\n
+    Pemutaran video (nirkabel):\n
+    Hingga 13 jam\n
+    Pemutaran audio (nirkabel):\n
+    Hingga 60 jam\n
+    Kemampuan isi daya cepat:\n
+    Pengisian daya hingga 50% dalam 30 menit7\n
+    Baterai lithium-ion bawaan yang dapat diisi ulang\n
+    Pengisian daya nirkabel (berfungsi dengan pengisi daya bersertifikat Qi8)\n
+    Mengisi daya melalui USB ke sistem komputer atau adaptor daya</string>
+    <string name="number_photos">6 Photos</string>
+    <string name="price">$999</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="seller">Ade Wija Nugraha</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="battery">Battery</string>
+    <string name="size">Size</string>
+    <string name="display">Display</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="beli">Beli</string>
+</resources>
